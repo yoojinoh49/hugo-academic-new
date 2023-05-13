@@ -1,5 +1,5 @@
 ---
-title: Irvin C. Oh
+title: Irvin C. Oh, MD, FAAOS
 role: Associate Professor of Orthopaedics & Rehabilitation; Division Chief of
   Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical
   Affairs, Orthopaedics & Rehabilitation
@@ -8,7 +8,8 @@ bio: My research interests include orthopaedic foot and ankle, biomechanics,
   infection, and immunology with a focus on translational research.
 interests:
   - Orthopaedics
-  - Foot
+  - Foot and Ankle
+  - Biomechanics
 social:
   - icon: envelope
     icon_pack: fas
