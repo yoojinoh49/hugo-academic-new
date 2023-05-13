@@ -38,8 +38,8 @@ status:
   icon: ☕️
 last_name: Oh
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Irvin
+email: "irvinoh@gmail.com"
 ---
 Irvin Oh is a practicing orthopaedic surgeon and researcher at Yale School of Medicine, Department of Orthopadics. Dr. Oh is interested in diagnosing and treating ailments like arthritis, flat foot, and other complex foot and ankle pathologies. He is particularly interested in utilizing biomechanics and mechanical models to assess the effects of surgical intervention. As a researcher, Dr. Oh has published over a hundred peer-reviewed papers.
 {style="text-align: justify;"}
