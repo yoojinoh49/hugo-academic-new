@@ -36,7 +36,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Oh
 highlight_name: true
 first_name: Alice
 email: ""
