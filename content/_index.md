@@ -46,8 +46,7 @@ sections:
           location: New Haven, CT
           date_start: '2021-04-01'
           date_end: ''
-          description: |2-
-          Associate Professor of Orthopaedics & Rehabilitation; Division Chief of Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical Affairs, Orthopaedics & Rehabilitation
+          description: Division Chief of Foot and Ankle Surgery; Vice Chair of Clinical Affairs, Orthopaedics & Rehabilitation
         - title: Associate Professor
           company: University of Rochester
           company_url: ''
@@ -55,13 +54,12 @@ sections:
           location: Rochester, NY
           date_start: '2013-08-01'
           date_end: '2021-03-01'
-          description: |2-
-          Associate Professor and Attending surgeon, Department of Orthopaedics and Rehabilitation at Strong Memorial Hospital and Highland Hospital
+          description: Associate Professor and Attending surgeon, Department of Orthopaedics and Rehabilitation
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: ''
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
