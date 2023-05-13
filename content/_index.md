@@ -39,33 +39,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Associate Professor
+          company: Yale University School of Medicine
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: 
+          location: New Haven, CT
+          date_start: '2021-04'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: Associate Professor of Orthopaedics & Rehabilitation; Division Chief of Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical Affairs, Orthopaedics & Rehabilitation
+        - title: Associate Professor
+          company: University of Rochester
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+          company_logo: 
+          location: Rochester, NY
+          date_start: '2013-08'
+          date_end: '2021-03'
+          description: Associate Professor and Attending surgeon, Department of Orthopaedics and Rehabilitation at Strong Memorial Hospital and Highland Hospital
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Honors and Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
