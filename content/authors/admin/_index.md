@@ -4,12 +4,11 @@ role: Associate Professor of Orthopaedics & Rehabilitation; Division Chief of
   Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical
   Affairs, Orthopaedics & Rehabilitation
 avatar_filename: img_5294.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include orthopaedic foot and ankle, biomechanics,
+  infection, and immunology with a focus on translational research.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Orthopaedics
+  - Foot
 social:
   - icon: envelope
     icon_pack: fas
@@ -54,6 +53,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Irvin Oh is a practicing orthopaedic surgeon and researcher at Yale School of Medicine, Department of Orthopadics. Dr. Oh is interested in diagnosing and treating ailments like arthritis, flat foot, and other complex foot and ankle pathologies. He is particularly interested in utilizing biomechanics and mechanical models to assess the effects of surgical intervention. As a researcher, Dr. Oh has published over a hundred peer-reviewed papers.
 {style="text-align: justify;"}
