@@ -4,8 +4,7 @@ role: Associate Professor of Orthopaedics & Rehabilitation; Division Chief of
   Foot and Ankle Surgery; Vice Chair of Clinical Affairs, Orthopaedics &
   Rehabilitation
 avatar_filename: img_5294.jpg
-bio: My research interests include orthopaedic foot and ankle, biomechanics,
-  infection, and immunology with a focus on translational research.
+bio: ""
 interests:
   - Orthopaedics
   - Foot and Ankle
