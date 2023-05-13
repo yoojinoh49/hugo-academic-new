@@ -1,5 +1,5 @@
 ---
-title: Irvin C. Oh, MD, FAAOS
+title: Irvin Oh, MD, FAAOS
 role: Associate Professor of Orthopaedics & Rehabilitation; Division Chief of
   Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical
   Affairs, Orthopaedics & Rehabilitation
@@ -28,8 +28,11 @@ education:
     - course: Clinical Fellowship
       institution: Hospital for Special Surgery
       year: 2009
+    - course: Orthopaedic Residency
+      institution: Samsung Medical Center
+      year: 2005
     - course: MD
-      institution: Massachusetts Institute of Technology
+      institution: Kosin Medical College
       year: 2008
 superuser: true
 status:
