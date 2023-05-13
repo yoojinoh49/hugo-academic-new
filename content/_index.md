@@ -44,17 +44,19 @@ sections:
           company_url: ''
           company_logo: 
           location: New Haven, CT
-          date_start: '2021-04'
+          date_start: '2021-04-01'
           date_end: ''
-          description: Associate Professor of Orthopaedics & Rehabilitation; Division Chief of Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical Affairs, Orthopaedics & Rehabilitation
+          description: |2-
+          Associate Professor of Orthopaedics & Rehabilitation; Division Chief of Foot and Ankle Surgery, Orthopaedics & Rehabilitation; Vice Chair of Clinical Affairs, Orthopaedics & Rehabilitation
         - title: Associate Professor
           company: University of Rochester
           company_url: ''
           company_logo: 
           location: Rochester, NY
-          date_start: '2013-08'
-          date_end: '2021-03'
-          description: Associate Professor and Attending surgeon, Department of Orthopaedics and Rehabilitation at Strong Memorial Hospital and Highland Hospital
+          date_start: '2013-08-01'
+          date_end: '2021-03-01'
+          description: |2-
+          Associate Professor and Attending surgeon, Department of Orthopaedics and Rehabilitation at Strong Memorial Hospital and Highland Hospital
       columns: '2'
   - block: accomplishments
     content:
