@@ -25,13 +25,10 @@ organizations:
     url: https://medicine.yale.edu/profile/irvin-oh/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Clinical Fellowship
+      institution: Hospital for Special Surgery
       year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: MD
       institution: Massachusetts Institute of Technology
       year: 2008
 superuser: true
